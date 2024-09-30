@@ -1,0 +1,5 @@
+# requirements.txt
+
+apache-airflow==2.5.0  # Adjust version based on your Airflow setup
+pandas==2.1.1
+boto3==1.28.0
